@@ -1,6 +1,6 @@
 playerLife = 100
 alive = True
-playerName="Test1"
+playerName = 'Ar'
 playerExperience = 0 
 playerLevel = 1
 playerAttack = 10 * playerLevel
